@@ -8,22 +8,22 @@
 
 Projeto para controle de temperatura de viveiros por meio do sensor DHT11 e ESP32 
 
-== Step 1: Installation
+== Step 1: Instalação
 Instalar bibliotecas referentes ao DHT11
 Instalar bibliotecas relacionadas com o Arduino IoT
 Preferencialmente utilize a plataforma Arduino IoT pois instala automaticamente os itens descritos
 
-== Step 2: Assemble the circuit
+== Step 2: Configurações
 
 Realize a conexão baseada no código ou altere a pinagem a sua preferência
 Não esquecer do resistor pulldown para a chave magnética
 
-== Step 3: Load the code
+== Step 3: Upload do código
 
 Utilizando o Arduino Manage Agent (instalar para realizar Upload via plataforma) pode-se realizar o upload do código por meio de uma 
 entrada Micro-USB
 
-== Folder structure
+== Pastas:
 
 ....
  AquecedorPassaro_apr21a       => Arduino sketch folder
@@ -31,7 +31,7 @@ entrada Micro-USB
   ├── esquema.png      => (optional) an image of the required schematics
   ├── thingProperties.h => Configurações do ArduinoCloud
 
-== Contributing
+== Contribuir
 To contribute to this project please contact: 
 rafael.kenji@Uunesp.br
 
@@ -48,7 +48,7 @@ O que vc vai precisar:
 |===
 
 
-=== Help
+=== Ajuda
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
