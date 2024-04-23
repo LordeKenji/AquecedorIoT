@@ -6,20 +6,17 @@
 
 = Project: {Project}
 
-Describe your project
+Projeto para controle de temeperatura de viveiros por meio do sensor DHT11 e ESP32 
 
 == Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+Instalar bibliotecas referentes ao DHT11
+Instalar bibliotecas relacionadas com o Arduino IoT
+Preferencialmente utilize a plataforma Arduino IoT pois instala automaticamente os itens descritos
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+Realize a conexão baseada no código ou altere a pinagem a sua preferência
+Não esquecer do resistor pulldown para a chave magnética 
 
 == Step 3: Load the code
 
