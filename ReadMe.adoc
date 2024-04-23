@@ -6,7 +6,7 @@
 
 = Project: Aquecedor de animais de pequeno porte IoT
 
-Projeto para controle de temeperatura de viveiros por meio do sensor DHT11 e ESP32 
+Projeto para controle de temperatura de viveiros por meio do sensor DHT11 e ESP32 
 
 == Step 1: Installation
 Instalar bibliotecas referentes ao DHT11
